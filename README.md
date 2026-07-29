@@ -1,27 +1,207 @@
-<h1 align="center">Hi, I'm Rayhan</h1>
-<h3 align="center">Aspiring AI engineer and full stack developer from Singapore</h3>
 
-- Currently working on **localAgent**
+<div align="center">
 
-- Currently learning **PyTorch**
+# 👋 Hi, I'm Rayhan
 
-- Looking to collaborate on **Any AI project/application**
+### *Aspiring AI Engineer • Full Stack Developer • Singapore 🇸🇬*
 
-- I'm looking for help with anything related to **Deep Learning frameworks and technologies**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111111,100:2d2d2d&text=Build.%20Learn.%20Innovate.&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Full%20Stack%20Development&descAlignY=58"/>
 
-- Reach me at **rayhan11.0808@gmail.com**
-
-- Fun Fact... **I've been playing guitar for 4 years**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad rayhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad rayhan" height="30" width="40" /></a>
-<a href="https://instagram.com/rayhan._08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayhan._08" height="30" width="40" /></a>
+<p>
+<a href="https://github.com/rayablepy">
+<img src="https://img.shields.io/github/followers/rayablepy?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+</a>
+<a href="https://github.com/rayablepy?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="mailto:rayhan11.0808@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayablepy&show_icons=true&locale=en&layout=compact" alt="rayablepy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayablepy&show_icons=true&locale=en" alt="rayablepy" /></p>
+# 🚀 About Me
+
+```yaml
+name: Muhammad Rayhan
+location: Singapore
+
+role:
+  - Aspiring AI Engineer
+  - Full Stack Developer
+
+currently_building:
+  - localAgent
+
+currently_learning:
+  - PyTorch
+  - Deep Learning
+
+looking_to_collaborate_on:
+  - AI Projects
+  - Machine Learning Applications
+
+currently_seeking_help_with:
+  - Deep Learning Frameworks
+  - AI Technologies
+
+fun_fact:
+  - I've been playing guitar for 4 years 🎸
+
+contact:
+  email: rayhan11.0808@gmail.com
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/muhammad%20rayhan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/rayhan._08">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:rayhan11.0808@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/Electron-181717?style=for-the-badge&logo=electron"/>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python"/>
+
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/PyTorch-181717?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/Pandas-181717?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/OpenCV-181717?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/scikit--learn-181717?style=for-the-badge&logo=scikitlearn"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/SQLite-181717?style=for-the-badge&logo=sqlite"/>
+
+</p>
+
+---
+
+## ☁️ DevOps & Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-181717?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rayablepy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayablepy&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img width="720" src="https://streak-stats.demolab.com?user=rayablepy&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayablepy&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🧠 Deep Learning
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ███████░░░
+
+⚛️ AI Engineering
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ████████░░
+
+🌐 Full Stack Development
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  █████████░
+
+🐳 Cloud & DevOps
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ██████░░░░
+```
+
+---
+
+# 💡 Developer Philosophy
+
+> *"Build things that solve real problems, keep learning every day, and never stop experimenting."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Always learning, always building."*
+
+<img src="https://komarev.com/ghpvc/?username=rayablepy&style=for-the-badge&color=181717"/>
+
+</div>
+````
