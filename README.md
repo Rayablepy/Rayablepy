@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Rayhan
+# Hi, I'm Rayhan
 
 ### *Aspiring AI Engineer • Full Stack Developer • Singapore 🇸🇬*
 
@@ -23,7 +23,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 ```yaml
 name: Muhammad Rayhan
@@ -49,7 +49,7 @@ currently_seeking_help_with:
   - AI Technologies
 
 fun_fact:
-  - I've been playing guitar for 4 years 🎸
+  - I've been playing guitar for 4 years 
 
 contact:
   email: rayhan11.0808@gmail.com
@@ -57,7 +57,7 @@ contact:
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -77,9 +77,9 @@ contact:
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-## 🎨 Frontend
+## Frontend
 
 <p>
 
@@ -96,7 +96,7 @@ contact:
 
 ---
 
-## ⚙️ Backend
+## Backend
 
 <p>
 
@@ -109,7 +109,7 @@ contact:
 
 ---
 
-## 🤖 AI / Machine Learning
+## AI / Machine Learning
 
 <p>
 
@@ -122,7 +122,7 @@ contact:
 
 ---
 
-## 🗄️ Databases
+## Databases
 
 <p>
 
@@ -135,7 +135,7 @@ contact:
 
 ---
 
-## ☁️ DevOps & Tools
+## DevOps & Tools
 
 <p>
 
@@ -147,21 +147,7 @@ contact:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rayablepy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayablepy&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img width="720" src="https://streak-stats.demolab.com?user=rayablepy&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -171,27 +157,21 @@ contact:
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 ```text
-🧠 Deep Learning
+DevOps
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ███████░░░
 
-⚛️ AI Engineering
+Deep Learning
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ████████░░
 
-🌐 Full Stack Development
+Agentic AI
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  █████████░
 
-🐳 Cloud & DevOps
+Full Stack Application Development
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ██████░░░░
 ```
-
----
-
-# 💡 Developer Philosophy
-
-> *"Build things that solve real problems, keep learning every day, and never stop experimenting."*
 
 ---
 
