@@ -175,9 +175,8 @@ Full Stack Application Development
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### Thanks for visiting!
 
-*"Always learning, always building."*
 
 <img src="https://komarev.com/ghpvc/?username=rayablepy&style=for-the-badge&color=181717"/>
 
