@@ -3,9 +3,7 @@
 
 # Hi, I'm Rayhan
 
-### *Aspiring AI Engineer • Full Stack Developer • Singapore 🇸🇬*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111111,100:2d2d2d&text=Build.%20Learn.%20Innovate.&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Full%20Stack%20Development&descAlignY=58"/>
+### *Aspiring AI Engineer • Full Stack Developer • Singapore *
 
 <p>
 <a href="https://github.com/rayablepy">
