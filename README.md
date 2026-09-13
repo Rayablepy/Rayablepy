@@ -145,16 +145,6 @@ contact:
 
 ---
 
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayablepy&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```text
