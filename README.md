@@ -1,174 +1,68 @@
-
-<div align="center">
-
-# Hi, I'm Rayhan
-
-### *Aspiring AI Engineer • Full Stack Developer • Singapore *
-
-<p>
-<a href="https://github.com/rayablepy">
-<img src="https://img.shields.io/github/followers/rayablepy?label=Followers&style=for-the-badge&logo=github&color=181717"/>
-</a>
-<a href="https://github.com/rayablepy?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="mailto:rayhan11.0808@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=rayablepy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219257325%3Fv%3D4" alt="rayablepy hero visual" />
 </p>
 
-</div>
+<p align="center"><b>Rayhan</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
----
+<p align="center"><a href="https://github.com/rayablepy">GitHub</a> · <a href="https://rayhan-portfolio-dev.vercel.app">Website</a></p>
 
-# About Me
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-```yaml
-name: Muhammad Rayhan
-location: Singapore
-
-role:
-  - Aspiring AI Engineer
-  - Full Stack Developer
-
-currently_building:
-  - localAgent
-
-currently_learning:
-  - PyTorch
-  - Deep Learning
-
-looking_to_collaborate_on:
-  - AI Projects
-  - Machine Learning Applications
-
-currently_seeking_help_with:
-  - Deep Learning Frameworks
-  - AI Technologies
-
-fun_fact:
-  - I've been playing guitar for 4 years 
-
-contact:
-  email: rayhan11.0808@gmail.com
-```
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/muhd-rayhan/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/rayhan08._">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:rayhan11.0808@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# Tech Stack
-
-## Frontend
-
-<p>
-
-<img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/Electron-181717?style=for-the-badge&logo=electron"/>
-
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=rayablepy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219257325%3Fv%3D4" alt="rayablepy projects visual" />
 </p>
 
----
+- [Charles](https://github.com/Rayablepy/Charles) · ★ 2
+- [LTADataMallpy](https://github.com/Rayablepy/LTADataMallpy) · ★ 1 — A python wrapper for the LTA DataMall API
+- [NL2RAG](https://github.com/Rayablepy/NL2RAG) · ★ 1 — An AI powered, simple RAG pipeline that runs completely within your local system
+- [portfoliov3](https://github.com/Rayablepy/portfoliov3) · ★ 1
+- [IMDBert](https://github.com/Rayablepy/IMDBert) · ★ 0
+- [Rayablepy](https://github.com/Rayablepy/Rayablepy) · ★ 0
 
-## Backend
+</details>
 
-<p>
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-<img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python"/>
-
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=rayablepy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219257325%3Fv%3D4" alt="rayablepy stack visual" />
 </p>
 
----
+</details>
 
-## AI / Machine Learning
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-<p>
+<b>6</b> public repositories, <b>5</b> stars, <b>408</b> contributions in the last year, a longest streak of <b>15</b> days and <b>4</b> followers.
 
-<img src="https://img.shields.io/badge/PyTorch-181717?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/Pandas-181717?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/OpenCV-181717?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/scikit--learn-181717?style=for-the-badge&logo=scikitlearn"/>
-
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=rayablepy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219257325%3Fv%3D4" alt="rayablepy stats visual" />
 </p>
 
----
+</details>
 
-## Databases
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
-<p>
-
-<img src="https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/SQLite-181717?style=for-the-badge&logo=sqlite"/>
-
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=rayablepy&theme=neon" alt="rayablepy contribution activity" />
 </p>
 
----
+</details>
 
-## DevOps & Tools
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
 
-<p>
-
-<img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-181717?style=for-the-badge&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git"/>
-
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=rayablepy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219257325%3Fv%3D4" alt="rayablepy social visual" />
 </p>
 
----
+</details>
 
-# Current Focus
-
-```text
-DevOps
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ███████░░░
-
-Deep Learning
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ████████░░
-
-Agentic AI
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  █████████░
-
-Full Stack Application Development
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ██████░░░░
-```
-
----
-
-<div align="center">
-
-### Thanks for visiting!
-
-
-<img src="https://komarev.com/ghpvc/?username=rayablepy&style=for-the-badge&color=181717"/>
-
-</div>
-````
+<p align="center"><sub>Rayhan · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
