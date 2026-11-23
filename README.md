@@ -31,7 +31,8 @@ role:
   - Full Stack Developer
 
 currently_building:
-  - localAgent
+  - Charles
+  - LTADataMallpy
 
 currently_learning:
   - PyTorch
